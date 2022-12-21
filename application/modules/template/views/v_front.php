@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Integra Solusi Infotama</title>
+  <title>Backup and Restore</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?= base_url(); ?>assets/img/isi2.png" rel="icon">
+  <!-- <link href="<?= base_url(); ?>assets/img/isi2.png" rel="icon"> -->
   <link href="<?= base_url(); ?>assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -87,7 +87,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer" >
+  <!-- <footer id="footer" class="footer" >
 
     <div class="footer-content">
       <div class="container">
@@ -153,7 +153,8 @@
       </div>
     </div>
 
-  </footer><!-- End Footer -->
+  </footer> -->
+  <!-- End Footer -->
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
